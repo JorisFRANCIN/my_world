@@ -1,16 +1,24 @@
 ## my_world
 
-# This project covers:
+- MyWorld : Terraforming on a ground displayed from a isometric or parallal view.
+and the one in the game axis is:
 
-- signal
-- inter-process communication handling, 
-- filesystem operations
-- interactive use of the terminal. 
+# Skills to be acquired:
 
-# Skills to be acquired
-- C programming
-- Precision
-- Signals
+- Opening windows
+- Loading resource files
+- Interactions using mouse/keyboard inputs.
+- Special effects (particles, lights)
+- Collisions
+- Movement of a camera within a level/scene
+- Scrolling/parallax
+- Animations with sprites
+
+# New skills to acquire:
+- Isometric/parallal projection
+- Creation of UI elements (e.g. subwindows, buttons)
+- Responsivity of user interactions (animations, color changes, layering)
+- In-game balancing (skills, stuff)
 
 ## Usage
 
