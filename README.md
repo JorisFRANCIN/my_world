@@ -15,7 +15,7 @@
 ## Usage
 
 Execute `make` then `./my_world`
-Check out the 
+Check out the B-MUL-200_my_world.pdf for more information or add the `--help` option
 
 ## Credits
 Joris FRANCIN
