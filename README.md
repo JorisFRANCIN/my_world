@@ -22,6 +22,7 @@ and the one in the game axis is:
 
 ## Usage
 
+# CSFML must be installed in order to use the program /!\
 Execute `make` then `./my_world`
 Check out the B-MUL-200_my_world.pdf for more information or add the `--help` option
 
